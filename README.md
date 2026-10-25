@@ -1,0 +1,2 @@
+# AutomatiData-NYC-TLC-Fare-Prediction-Machine-Learning-Pipeline
+End-to-end data analytics and machine learning pipeline for the NYC Taxi &amp; Limousine Commission (TLC) developed across the Google Advanced Data Analytics Specialization. Features EDA, A/B hypothesis testing, multiple linear regression, and ensemble ML models (Random Forest/XGBoost) to predict taxi fare amounts using the PACE framework.
